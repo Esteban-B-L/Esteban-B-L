@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Esteban Betancurt and I'm learning how to use GitHub
+## Aprendiendo a programar desde JavaScript
 
 <!--
 **Esteban-B-L/Esteban-B-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
